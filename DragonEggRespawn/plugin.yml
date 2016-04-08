@@ -1,0 +1,6 @@
+name: DragonEggRespawn
+version: 1.0
+main: com.mulescraft.dragoneggrespawn.DragonEggRespawn
+description: Allows Dragon Eggs to respawn after Dragon Death.
+website: mulescraft.enjin.com
+author: Mule
